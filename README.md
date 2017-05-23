@@ -32,6 +32,7 @@ To run the application:
 ## List of Resources
 
 https://www.codecademy.com/learn/javascript
+
 https://www.codecademy.com/courses/web-beginner-en-SWM11/0/1https://www.w3schools.com/Tags/ref_canvas.asp
 
 
